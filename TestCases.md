@@ -1,6 +1,6 @@
 # Testing Session of the Monefy app
 ## List of Test Cases for Functional and non-Functional
-* Verify opening for Monefy App (High)
+* Verify opening for Monefy App 
 * verify changing language when change it from english to german should all screens , all side menus and all tabs changed their language into german(**BUG**)
 * check the logo of application appear in the middle of header and below the logo appear type of account (payment or cash or all accounts)
   * Left side menu should open
@@ -64,7 +64,7 @@
       * check the message appeared after add transfer successfully
       * should when click on "back arrow button" navigate to the home page
       * check transfer transcation display in balance history
-* The Negative and Positive fab buttons in home screen(**Medium**) 
+* The Negative and Positive fab buttons in home screen 
   * should when click on (+) fab button open new income screen 
   * should when click on (-) fab button open new expense screen
     * new income screen able to user to enter amount of new income or make some mathematical equation 
@@ -83,9 +83,9 @@
  * should when tab on any pro feature appear pro feature screen
    * should check in pro feature screen appear the purchase of unlimited use
    * should when click to claim my offer if user have an offer given screen appear on it the adding payment method (add credit or debit card) or add vodafone billing
-  * check the (circle shape) in center of home screen that appear correctly and calculate every transaction correct(**Medium**)
-  * application home screen appear all catogries(**High**)
-  * every catogery action button should navigate to new expense screen(**High**)
+  * check the (circle shape) in center of home screen that appear correctly and calculate every transaction correct
+  * application home screen appear all catogries
+  * every catogery action button should navigate to new expense screen
     * should display in new expense screen the date of day with format(day of week, dd,month)
     * New expense screen should able to user to enter valid transaction amount
       * it not acceptable to enter zero number or number with negative sign as new expense 
