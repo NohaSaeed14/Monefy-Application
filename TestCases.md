@@ -73,7 +73,7 @@
     * valid to user to add new way of income(pro-feature)
     * it not valid to enter new income with amount zero number
     * new income screen after entering new income transaction given toast message for successfully if user want to cancel it can click on cancel in toast message 
-    * after saving income should appear in circle balance in home screen the number that add but it took long time to disappeared happening overlappinh(**BUG**)
+    * after saving income should appear in circle balance in home screen the number that add but it took long time to disappeared happening overlapping(**BUG**)
     * check income transcation display in balance history
     * should when click on "back arrow button" navigate to the home page
     * new expense screen able to user to enter amount of new expense or make some mathematical equation 
@@ -94,7 +94,7 @@
       * should after finishing write note click on button check mark or click in any space in screen to close keyboard (**BUG**) while happening overlapping keyboard over numeric keyboard
       * when click on any category and open new expense screen should by default display numeric keyboard
       * should valid to user to enter amount of new expense or make some mathematical equation 
-      * should enter enter valid number 
+      * should enter valid number 
       * it should able to enter number with comma like hundreds or thousands to be usable for users (**BUG**)
       * It should possible to cancel transaction from cancel button that displayed in toast message in 5 secs before disappeared
       * should when click on "back arrow button" navigate to the home page
